@@ -453,3 +453,7 @@ diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
 diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
 git init
 git add .
+diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+git status
+git add .
