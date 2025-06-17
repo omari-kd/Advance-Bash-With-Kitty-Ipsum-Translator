@@ -541,3 +541,4 @@ rm doggy_ipsum_2.txt
 diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
 cat doggy_ipsum_2.txt
 git remote set-url https://github.com/omari-kd/Advance-Bash-With-Kitty-Ipsum-Translator.git
+git branch -M Main
