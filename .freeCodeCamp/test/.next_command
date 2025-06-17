@@ -446,3 +446,4 @@ clear
 echo "# Advance-Bash-With-Kitty-Ipsum-Translator" >> README.md
 rm -rf .git
 git init
+cat doggy_ipsum_2.txt
