@@ -544,3 +544,15 @@ git remote set-url https://github.com/omari-kd/Advance-Bash-With-Kitty-Ipsum-Tra
 git branch -M Main
 git status
 git add .
+git remote -v
+git push -u origin main
+git branch
+git branch -m Main main
+git remote add origin https://github.com/omari-kd/Advance-Bash-With-Kitty-Ipsum-Translator.git
+git remote -v
+git push -u origin main
+git pull
+git pull remote main
+git push -u origin main
+git pull origin main --rebase
+git add .
