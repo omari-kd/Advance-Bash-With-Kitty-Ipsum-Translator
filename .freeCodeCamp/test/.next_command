@@ -447,3 +447,9 @@ echo "# Advance-Bash-With-Kitty-Ipsum-Translator" >> README.md
 rm -rf .git
 git init
 cat doggy_ipsum_2.txt
+diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
+diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+git init
+git add .
